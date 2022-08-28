@@ -6,8 +6,7 @@ public class LoadAssets : MonoBehaviour
 
 {
 
-    public GameObject redobj;
-    public GameObject blueobj;
+    public GameObject redObj;
 
     // Start is called before the first frame update
     void Start()
